@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on React Native && Swift
 <!--
 **Grimmn/Grimmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Grimmn&show_icons=true&theme=radical)
